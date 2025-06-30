@@ -1,0 +1,14 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "A simple hello world application.",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "main": "app.js",
+  "keywords": [],
+  "author": "Gemini Code Assist"
+}
